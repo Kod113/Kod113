@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kod113
+- 👀 I’m interested in Cyber security
+- 💼 I'm working in the Security of the "Leonardo Da Vinci" airport (RM, Italy)
+- 🌱 I’m currently studying Computer Science at the "La Sapienza, University of Rome"
